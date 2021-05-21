@@ -1,0 +1,29 @@
+body {
+    background: darkgray;
+}
+
+#container {
+    margin: auto;
+    width: 1000px;
+    background: tan;
+    text-align: center;
+    padding: 50px 0;
+}
+
+#container p {
+    border: 2px solid black;
+    margin-top: 30px;
+    font-size: 28px;
+    padding: 20px;
+}
+
+#container a {
+    text-decoration: none;
+    background: red;
+    padding: 10px 20px;
+    color: white;
+}
+
+#container a:hover {
+    background: darkgreen;
+}
